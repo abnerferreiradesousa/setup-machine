@@ -9,15 +9,15 @@
 
 Run the follow commands:
 
-- 1 To create a node package 
+- 1 - To create a node package 
 `npm init -y`
 
-- 2 Install typescript, ts-node
+- 2 - Install typescript, ts-node
 `npm i typescript ts-node`
 
-- 3 After, initialize typescript
+- 3 - After, initialize typescript
 `npx tsc --init`
 
-- 4 And run your code with
+- 4 - And run your code with
 `ts-node <filname>`
 [Topo](#ancora)
